@@ -1,0 +1,12 @@
+body{
+	background-image:url(https://cdn.pixabay.com/photo/2015/09/05/07/28/writing-923882_1280.jpg);
+	font-style:unset;
+	color: blue;
+}
+h1{
+  color: red;
+}
+signin{
+	border-radius: 5;
+}
+}
